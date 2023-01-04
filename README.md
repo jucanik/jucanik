@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/jucanik](https://github.com/jucanik)
+- 🌱 I’m currently learning **SpringBoot , GraphQL**
+
+- 👨‍💻 All of my projects are available at [https://github.com/cjuanik](https://github.com/cjuanik)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cjuanik&show_icons=true&locale=en" alt="cjuanik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cjuanik&" alt="cjuanik" /></p>
-
