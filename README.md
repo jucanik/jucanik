@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SpringBoot , GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cjuanik](https://github.com/cjuanik)
+- 👨‍💻 All of my projects are available at [https://github.com/jucanik](https://github.com/jucanik)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
