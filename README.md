@@ -22,7 +22,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cjuanik&show_icons=true&locale=en&layout=compact" alt="cjuanik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cjuanik&show_icons=true&locale=en" alt="cjuanik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cjuanik&" alt="cjuanik" /></p>
-
